@@ -2,7 +2,6 @@
 LuaJIT FFI bindings for Kazmath
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
